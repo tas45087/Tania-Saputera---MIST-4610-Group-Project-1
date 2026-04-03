@@ -39,3 +39,20 @@ Revenue is tracked through the Payments entity, which records transactions assoc
 <img width="817" height="576" alt="image" src="https://github.com/user-attachments/assets/7588816b-25c4-478c-a20e-0890fc402f7f" />
 <img width="812" height="406" alt="image" src="https://github.com/user-attachments/assets/962101a8-7c7a-45c7-b990-fc34a6e62c99" />
 <img width="811" height="687" alt="image" src="https://github.com/user-attachments/assets/d895b71d-3872-4ed5-9274-a08d07081ae2" />
+
+
+
+
+
+
+
+
+
+
+Database Information:
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Name of Database: ns_Sp26_71552_Group6
+Additional Information: 
+
+
