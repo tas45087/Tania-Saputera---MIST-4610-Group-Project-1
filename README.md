@@ -1,4 +1,4 @@
-# Tania-Saputera-MIST-4610-Group-Project-1
+# Teamp 6 MIST-4610-Group-Project-1
 
 Team Name:
 Sp26_71552_Group 6
