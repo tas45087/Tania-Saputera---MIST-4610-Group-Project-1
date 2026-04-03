@@ -27,7 +27,7 @@ Members can attend many classes and each class hosts many members, making our At
 
 Revenue is tracked through the Payments entity, which records transactions associated with each member’s subscription. Additionally, the Referrals entity captures potential new customers through our boutique referral program for existing members, allowing managers to measure the effectiveness of the program strategy.
 
-<img width="1020" height="867" alt="image" src="https://github.com/user-attachments/assets/695598ca-3eee-45cc-abee-bcdef950898c" />
+<img width="1006" height="780" alt="image" src="https://github.com/user-attachments/assets/344b3c28-21ac-4cf2-b628-7274c2a39435" />
 
 ## Data Dictionary:
 <img width="822" height="675" alt="image" src="https://github.com/user-attachments/assets/0a106d4d-3ba8-4908-8750-10a37b1f16a3" />
