@@ -1,7 +1,7 @@
 # Team 6 Mist 4610 Group Project 1
 
 ## Team Name: 
-Group 6 
+71552 Group 6 
 
 ## Team Members:
 
